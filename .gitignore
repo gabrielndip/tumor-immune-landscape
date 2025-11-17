@@ -1,0 +1,32 @@
+# Data files (large, regenerable)
+data/
+*.rds
+*.RDS
+*.h5
+*.tsv.gz
+*.tar.gz
+*.xlsx
+
+# Output files (regenerable)
+figures/
+results/
+*.png
+*.pdf
+*.html
+*.csv
+
+# Development files
+PRESENTATION_NOTES.md
+notebooks/
+
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rprofile
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
