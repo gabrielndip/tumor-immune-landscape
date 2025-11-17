@@ -175,8 +175,10 @@ tumor_immune_landscape/
 
 ## Citations
 
-**Data Source:** 10X Genomics Public Dataset
-**Methods:** Seurat v5 (Hao et al., Cell 2021)
+**Data:** 10X Genomics Public Dataset
+
+**Methods:**
+- Seurat v5 (Hao et al., Cell 2021)
 
 ---
 
